@@ -48,7 +48,7 @@ function handleClick() {
             <v-text-field
                 v-model="password"
                 label="Senha"
-                readonly="true"
+                readonly
             ></v-text-field>
           </v-col>
           <v-col cols="12">
